@@ -15,8 +15,10 @@
 			<li>브랜치</li>
 			<li>충돌</li>
 			<li>충돌해결</li>
+			<li>다른위치충돌?</li>
 			<li>원격저장소</li>
 			<li>push</li>
+			<li>push&pull</li>
 			<li>pull</li>
 			<li>push.egoing</li>
 			<li>pull.leezche</li>
