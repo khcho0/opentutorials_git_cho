@@ -9,7 +9,7 @@
 			<h1>GIT</h1>
 		</header>
 		<ul>
-			<li>GIT이란?</li>
+			<li>introduce Git</li>
 			<li>버전</li>
 			<li>Branch</li>
 			<li>브랜치</li>
