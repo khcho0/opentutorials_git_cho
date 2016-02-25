@@ -9,6 +9,7 @@
 			<h1>GIT</h1>
 		</header>
 		<ul>
+			<li>first</li>
 			<li>introduce Git</li>
 			<li>¹öÀü</li>
 			<li>Branch</li>
@@ -23,6 +24,7 @@
 			<li>conflict.egoing.leezche</li>
 			<li>stash</li>
 			<li>ignore</li>
+			<li>statements</li>
 		</ul>
 	</body>
 </html>
