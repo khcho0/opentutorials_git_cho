@@ -9,7 +9,7 @@
 			<h1>GIT</h1>
 		</header>
 		<ul>
-			<li>GIT이란?</li>
+			<li>introduce Git</li>
 			<li>버전</li>
 			<li>Branch</li>
 			<li>브랜치</li>
@@ -20,7 +20,9 @@
 			<li>pull</li>
 			<li>push.egoing</li>
 			<li>pull.leezche</li>
-			<li>conflict.leezche</li>
+			<li>conflict.egoing.leezche</li>
+			<li>stash</li>
+			<li>ignore</li>
 		</ul>
 	</body>
 </html>
